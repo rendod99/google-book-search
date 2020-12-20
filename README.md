@@ -46,5 +46,8 @@ Project is created with:
 * Heroku link:
 -https://mysterious-cliffs-71529.herokuapp.com/
 
+* Portfolio link:
+-https://rendod99.github.io/react-profile/#/Portfolio
+
 ## Screen Shot
 <img width="1542" alt="Screen Shot 2020-12-19 at 10 46 07 PM" src="https://user-images.githubusercontent.com/66277385/102705326-1576ff80-424c-11eb-902b-3194fb3603e2.png">

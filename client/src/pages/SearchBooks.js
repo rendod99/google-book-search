@@ -46,6 +46,7 @@ class SearchBooks extends Component {
     render() {
         return (
     <div>
+        {/* need to add a button to access "saved books page" */}
         <div className="jumbotron jumbotron-fluid">
         <div className="container">
             <h1 className="display-4">Search Books with GoogleBook API</h1>

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import {Row, Col} from "../Grid";
 
-
+// Should display all saved books from DB.
 class Saved extends Component {
 
     state= {
